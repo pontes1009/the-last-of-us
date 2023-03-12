@@ -1,0 +1,15 @@
+*{ /* todas as tags *{}  */
+    margin: 0;/* margem  */
+    padding: 0; /*texto ficar mais afastado  */
+    box-sizing: border-box;
+}
+
+ul{
+list-style: none; /* tira as bolinhas dos links  */
+
+}
+
+a{
+
+    text-decoration: none;
+}
